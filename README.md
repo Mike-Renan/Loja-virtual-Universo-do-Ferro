@@ -1,5 +1,4 @@
-# Loja Virtual Floresta Tubo
-
+# Loja Virtual Universo-do-Ferro
 E-commerce simples desenvolvido em **HTML, CSS e JavaScript** para a empresa **Floresta Tubos & Perfis**, com foco em UI/UX, SEO e finalização de pedidos via **WhatsApp**.
 
 ---
